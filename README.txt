@@ -1,4 +1,4 @@
-# Run dengan normal
+#Run dengan normal
 
 docker run --gpus all -p 8888:8888 jupyter-tf
 
